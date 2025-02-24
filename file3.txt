@@ -1,1 +1,0 @@
-Deep learning is a subset of machine learning. Data is the fuel for AI models.
